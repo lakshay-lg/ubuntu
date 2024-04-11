@@ -1,4 +1,3 @@
-#DEMO
+hi there, this is demo file
 
-
-hi there everyone, this is my first text file
+  
